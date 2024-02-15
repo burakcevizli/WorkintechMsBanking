@@ -3,7 +3,7 @@
 	public enum CityEnum
 	{
 		Istanbul = 34,
-		Ankara = 06,
+		Ankara = 6,
 		Kırşehir = 40
 	}
 	public enum CountryEnum
